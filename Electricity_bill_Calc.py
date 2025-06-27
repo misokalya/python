@@ -1,3 +1,5 @@
+#Electricity Bill Calculator
+
 kWh = int(input("Enter units in kWh: "))
 
 cost_below = 100
