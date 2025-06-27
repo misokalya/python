@@ -1,3 +1,5 @@
+#Area of Triangle
+
 base = int(input("Enter Base: "))
 height = int(input("Enter height: "))
 
