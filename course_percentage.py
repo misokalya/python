@@ -1,3 +1,5 @@
+#Calculate the course percentage grade
+
 score = float(input("Enter your Marks: "))
 
 if score >=90 and score <= 100:
