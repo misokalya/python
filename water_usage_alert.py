@@ -1,3 +1,5 @@
+#Water usage alert
+
 litres = int(input("How many litres used today: "))
 if litres>100:
     print("Please save water")
