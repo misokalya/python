@@ -1,3 +1,5 @@
+#Fuel meter
+
 fuel = int(input("Enter fuel in litres: "))
 
 if fuel>30:
